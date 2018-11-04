@@ -1,0 +1,187 @@
+/* CSS - Georgies space project style sheet.css */
+
+/* Sets the formatting for the wrapper */
+div#wrapper  {
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-style: solid;
+    border-color: #67A3BD;
+    overflow: auto;
+    background-color: #E8E8E8;
+}
+
+/* Sets formatting for body */
+
+body {
+    background-color: rgb(128,128,128);
+}
+
+/* Sets formatting for container which contains body content */
+div#container {
+    font-family: Arial, Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: lighter
+}
+
+/* Sets the formatting for the middle (main) content pain */
+div#MainColumn {
+    float: left;
+    background: #67A3BD;
+    margin: 10px 5px 10px 0;
+    width: 56%;
+    height:auto;
+    padding: 20px;
+}
+
+/* Sets the formatting for the header */
+div#header {
+    float: left;
+    background: #90C13E;
+    margin: 10px 0 0 0;
+    width: 100%;
+    height: auto
+}
+
+/* Sets the formatting for the Left column */
+div#LeftColumn {
+    float: left;
+    background: #90C13E;
+    margin: 10px 5px 5px 6px;
+    width: 14.75%;
+    height: auto;
+    padding: 20px;
+}
+
+/* Sets the formatting for the Right column (sidebar) */
+div#Sidebar {
+    float: right;
+    background: #C7481F;
+    margin: 10px 5px 5px 6px;
+    width: 14.8%;
+    height: auto;
+    padding: 20px;
+}
+
+/* Sets the formatting for the footer bar */
+div#Footer {
+    float: left;
+    background: #67A3BD;
+    margin: 10px 0 0 0;
+    width: 100%;
+    height: auto;
+}
+
+/* Sets the formatting for the highest heading level */
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: lighter;
+    padding: 20px;
+}
+
+/* Sets the formatting for the level three heading*/
+h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: lighter;
+    padding: 20px
+}
+
+/* Sets the formatting for the normal font */
+p.normal, ul, ol {
+    font-family: Verdana, Sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: lighter
+}
+
+/* Sets the formatting for the italic font */
+p.italictext {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+/* Sets the formatting for the bold text */
+p.boldtext {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: lighter
+}
+
+/* Sets the formatting for lists */
+.liststyle {
+    list-style-type: circle;
+    padding: 10px;
+    margin: 10px;
+    background-color: #F1F1F1;
+    list-style-position: inside;
+    border-style: groove;
+    border-width: thin;
+    border-color: #F1F1F1;
+}
+
+/* Sets the formatting for numbered lists */
+.liststyle2 {
+    list-style-type: decimal;
+    padding: 10px;
+    margin: 10px;
+    background-color: #F1F1F1;
+    list-style-position: inside;
+    border-style: dashed;
+    border-width: medium;
+    border-color: #F1F1F1;
+}
+
+/* Sets the formatting for the Navbar */
+#navbar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Sets the formatting for the Navbar list elements */
+#navbar li {
+    float: left; /* Sets the lists to slot one after the other on the same line i.e trying to get left */
+}
+
+/* Sets the space between each Navbar list element so they are spaced out */
+#navbar li a {
+    display: block; /* Make a block around each list element */
+    width: 140px; /* Make the block 140 px across */
+    font-weight: bold;
+    margin: 0px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: #90C13E;
+    color: #004000;
+    text-decoration: none;
+}
+
+/* Sets the formatting for the image class right pic */
+img.rightpic {
+    float: right;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #90C13E;
+    margin: 10px;
+    width: 350px;
+    height: 200px;
+}
+
+/* Sets the fomatting for toppic */
+img.toppic {
+    float: left;
+    border-style: double;
+    border-width: 5px;
+    border-color: #90C13E;
+    margin: 10px;
+}
