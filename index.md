@@ -8,16 +8,16 @@
       <div class="container">
         <a id="header-title" href="index.html">Georgie's Space Project</a>
         <ul id="header-nav">
-          <li><a href="The Solar System.html">The Solar System</a></li>
-          <li><a href="Mercury.html">Mercury</a></li>
-          <li><a href="Venus.html">Venus</a></li>
-          <li><a href="Earth.html">Earth</a></li>
-          <li><a href="Mars.html">Mars</a></li>
-          <li><a href="Jupiter.html">Jupiter</a></li>
-          <li><a href="Saturn.html">Saturn</a></li>
-          <li><a href="Uranus.html">Uranus</a></li>
-          <li><a href="Neptune.html">Neptune</a></li>
-          <li><a href="Pluto.html">Pluto</a></li>
+          <li><a href="The Solar System.md">The Solar System</a></li>
+          <li><a href="Mercury.md">Mercury</a></li>
+          <li><a href="Venus.md">Venus</a></li>
+          <li><a href="Earth.md">Earth</a></li>
+          <li><a href="Mars.md">Mars</a></li>
+          <li><a href="Jupiter.md">Jupiter</a></li>
+          <li><a href="Saturn.md">Saturn</a></li>
+          <li><a href="Uranus.md">Uranus</a></li>
+          <li><a href="Neptune.md">Neptune</a></li>
+          <li><a href="Pluto.md">Pluto</a></li>
         </ul>
       </div> <!-- container -->
     </div> <!-- header -->
