@@ -1,7 +1,6 @@
 <html>
 <head>
     <title>Georgie's Space Project</title>
-    <link rel="stylesheet" type="text/css" href="Georgies space project style sheet.css">
 </head>
 <body>
     <div id="header">
