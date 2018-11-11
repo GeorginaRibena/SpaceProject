@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 <body>
     <div id="header">
       <div class="container">
