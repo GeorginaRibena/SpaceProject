@@ -1,6 +1,4 @@
-<html>
-<head>
-    <title>Georgie's Space Project</title>
+#Georgie's Space Project
 </head>
 <body>
     <div id="header">
