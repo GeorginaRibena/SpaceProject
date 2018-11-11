@@ -8,9 +8,9 @@
       <div class="container">
         <a id="header-title" href="index.html">Georgie's Space Project</a>
         <ul id="header-nav">
-          <li><a href="solarsystem.html">The Solar System</a></li>
-          <li><a href="mercury.html">Mercury</a></li>
-          <li><a href="venus.html">Venus</a></li>
+          <li><a href="The Solar System.html">The Solar System</a></li>
+          <li><a href="Mercury.html">Mercury</a></li>
+          <li><a href="Venus.html">Venus</a></li>
           <li><a href="Earth.html">Earth</a></li>
           <li><a href="Mars.html">Mars</a></li>
           <li><a href="Jupiter.html">Jupiter</a></li>
