@@ -23,7 +23,7 @@
     <div id="content">
       <div class="post-container">
         <div class="post">
-          <p class="post-date">28/10/18</p>
+          <p class="post-date">10/11/18</p>
           <h3 class="post-title">Earth</h3>
           <div class="post-content">
             <p></p>
