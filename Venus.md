@@ -24,10 +24,6 @@
     <div id="content">
       <div class="post-container">
         <div class="post">
-          <div class="post-author">
-            <img src="GF001.jpg">
-            <span>Georgie Foley</span>
-          </div> <!-- post-author -->
           <p class="post-date">28/10/18</p>
           <h3 class="post-title">Venus</h3>
           <div class="post-content">
