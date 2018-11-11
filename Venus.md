@@ -26,8 +26,7 @@
           <p class="post-date">28/10/18</p>
           <h3 class="post-title">Venus</h3>
           <div class="post-content">
-            <p></p>
-              <img style="margin:0px auto;display:block" src="Venus.jpg">
+            <p>My favourite fact about Venus is that it is the second-brightest natural object in the night sky!</p>
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
