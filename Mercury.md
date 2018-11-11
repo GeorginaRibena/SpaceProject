@@ -27,7 +27,7 @@
           <h3 class="post-title">Mercury</h3>
           <div class="post-content">
             <p></p>
-              <img style="margin:0px auto;display:block" src="Mercury.jpg">
+              <img style="margin:0px auto;display:block" src="Mercury.JPG">
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
