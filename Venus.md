@@ -23,7 +23,7 @@
     <div id="content">
       <div class="post-container">
         <div class="post">
-          <p class="post-date">28/10/18</p>
+          <p class="post-date">10/11/18</p>
           <h3 class="post-title">Venus</h3>
           <div class="post-content">
             <p>My favourite fact about Venus is that it is the second-brightest natural object in the night sky!</p>
