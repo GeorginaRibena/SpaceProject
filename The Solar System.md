@@ -1,4 +1,3 @@
-<html>
 <head>
     <title>Georgie's Space Project</title>
 </head>
@@ -49,4 +48,3 @@
       </div> <!-- container -->
     </div> <!-- footer -->
 </body>
-</html>
