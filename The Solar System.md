@@ -1,6 +1,3 @@
-<head>
-    <title>Georgie's Space Project</title>
-</head>
 <body>
     <div id="header">
       <div class="container">
