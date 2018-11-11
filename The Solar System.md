@@ -1,8 +1,9 @@
-#Georgie's Space Project
-
-
-        
- *[The Solar System](The Solar System.md)
+<body>
+    <div id="header">
+      <div class="container">
+        <a id="header-title" href="index.html">Georgie's Space Project</a>
+        <ul id="header-nav">
+          <li><a href="The Solar System.md">The Solar System</a></li>
           <li><a href="Mercury.md">Mercury</a></li>
           <li><a href="Venus.md">Venus</a></li>
           <li><a href="Earth.md">Earth</a></li>
