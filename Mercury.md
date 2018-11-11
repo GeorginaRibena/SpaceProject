@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Georgie's Space Project</title>
