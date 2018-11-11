@@ -1,4 +1,6 @@
-<body>
+<!doctype html>
+<html>
+    <body>
     <div id="header">
       <div class="container">
         <a id="header-title" href="index.html">Georgie's Space Project</a>
@@ -44,4 +46,5 @@
         </div> <!-- column -->
       </div> <!-- container -->
     </div> <!-- footer -->
-</body>
+    </body>
+</html>    
