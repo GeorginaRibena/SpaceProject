@@ -19,8 +19,18 @@
           <p class="post-date">28/10/18</p>
           <h3 class="post-title">The Solar System</h3>
           <div class="post-content">
-            <p> </p>
+            <p>This is my drawing of the solar system with the sun in the middle.</p>
               <img style="margin:0px auto;display:block" src="solarsystem.jpg">
+          </div> <!-- post-content -->
+        </div> <!-- post -->
+      </div> <!-- post-container -->
+        <div class="post-container">
+        <div class="post">
+          <p class="post-date">10/11/18</p>
+          <h3 class="post-title">Mercury</h3>
+          <div class="post-content">
+            <p>Here is a photo of Mercury.</p>
+              <img style="margin:0px auto;display:block" src="Mercury.JPG">
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
