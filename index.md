@@ -43,6 +43,16 @@
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
+         <div class="post-container">
+        <div class="post">
+          <p class="post-date">10/11/18</p>
+          <h3 class="post-title">Earth</h3>
+          <div class="post-content">
+            <p>This is what Earth looks like from space.</p>
+              <img style="margin:0px auto;display:block" src="Earth.jpg">
+          </div> <!-- post-content -->
+        </div> <!-- post -->
+      </div> <!-- post-container -->
     </div> <!-- content -->
     <div id="footer">
       <div class="container">
