@@ -67,8 +67,18 @@
           <p class="post-date">11/11/18</p>
           <h3 class="post-title">Jupiter</h3>
           <div class="post-content">
-            <p></p>
+            <p>Here are some facts about Jupiter.</p>
               <img style="margin:0px auto;display:block" src="Jupiter.jpg">
+          </div> <!-- post-content -->
+        </div> <!-- post -->
+      </div> <!-- post-container -->
+     <div class="post-container">
+        <div class="post">
+          <p class="post-date">11/11/18</p>
+          <h3 class="post-title">Saturn</h3>
+          <div class="post-content">
+            <p>Here is my painting of Saturn.</p>
+              <img style="margin:0px auto;display:block" src="Saturn.jpg">
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
