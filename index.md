@@ -1,21 +1,4 @@
 <body>
-    <div id="header">
-      <div class="container">
-        <a id="header-title" href="index.html">Georgie's Space Project</a>
-        <ul id="header-nav">
-          <li><a href="The Solar System.md">The Solar System</a></li>
-          <li><a href="Mercury.md">Mercury</a></li>
-          <li><a href="Venus.md">Venus</a></li>
-          <li><a href="Earth.md">Earth</a></li>
-          <li><a href="Mars.md">Mars</a></li>
-          <li><a href="Jupiter.md">Jupiter</a></li>
-          <li><a href="Saturn.md">Saturn</a></li>
-          <li><a href="Uranus.md">Uranus</a></li>
-          <li><a href="Neptune.md">Neptune</a></li>
-          <li><a href="Pluto.md">Pluto</a></li>
-        </ul>
-      </div> <!-- container -->
-    </div> <!-- header -->
     <div id="content">
       <div class="post-container">
         <div class="post">
