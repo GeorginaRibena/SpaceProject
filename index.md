@@ -53,6 +53,15 @@
           </div> <!-- post-content -->
         </div> <!-- post -->
       </div> <!-- post-container -->
+        <div class="post-container">
+          <p class="post-date">11/11/18</p>
+          <h3 class="post-title">Mars</h3>
+          <div class="post-content">
+            <p>I found this fact about Mars on the NASA site.</p>
+              <img style="margin:0px auto;display:block" src="Mars.jpg">
+          </div> <!-- post-content -->
+        </div> <!-- post -->
+      </div> <!-- post-container -->
     </div> <!-- content -->
     <div id="footer">
       <div class="container">
